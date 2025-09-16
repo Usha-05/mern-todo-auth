@@ -52,3 +52,4 @@ npm start
 - Default backend runs on `http://localhost:5000`.
 - Frontend proxy points to backend.
 
+![todo app]("C:\Users\palav\OneDrive\Pictures\Screenshots\Screenshot 2025-09-16 075029.png")
