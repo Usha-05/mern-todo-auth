@@ -52,5 +52,3 @@ npm start
 - Default backend runs on `http://localhost:5000`.
 - Frontend proxy points to backend.
 
----
-Happy coding 🚀
